@@ -1,0 +1,23 @@
+scheme: "Cosmopolitan Ice-cream"
+author: "Clair2Vetata (https://github.com/Clar2Verata)"
+
+# This city scheme is based on the triband style of neapolitan ice-cream
+# its flavors are Raspberry(#622451) MatchaTea(#8EC07C) & FrenchVanilla(#EBDBB2)
+# Cosmopolitan serves to emulate the tones and hues of retro computing
+
+base00: "3E2434" #3E2434 | Midnight #background
+base01: "622451" #622451 | Plumbus
+base02: "404945" #404945 | Mute
+base03: "53694C" #53694C | Matcha #Comments
+base04: "9FA278" #9FA278 | Paleo
+base05: "B9B8A4" #B9B8A4 | Drab #Foreground
+base06: "EBDBB2" #EBDBB2 | Eclair
+base07: "BFFFF1" #BFFFF1 | Skylight
+base08: "D3869B" #D3869B | Pinkypie #Red
+base09: "FDC8C8" #FDC8C8 | FloralCoral #Orange
+base0A: "83A598" #83A598 | BlueSteel #Yellow
+base0B: "8EC07C" #8EC07C | Seafoam #Green
+base0C: "4B9D9B" #4B9D9B | DesktopWallpaper #Cyan
+base0D: "007D72" #007D72 | H20Maya #Blue
+base0E: "9893BB" #9893BB | CoolGray #Purple
+base0F: "F9A4FF" #F9A4FF | T-Girl #Magenta
